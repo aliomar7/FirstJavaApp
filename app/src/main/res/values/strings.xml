@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstJavaApp</string>
+    <string name="search">search</string>
+    <string name="course">Course</string>
+    <string name="image_url">image Url</string>
+    <string name="email_id">Email Id</string>
+</resources>
